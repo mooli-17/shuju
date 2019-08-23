@@ -76,7 +76,7 @@ if __name__ == '__main__':
     myshow = modbus_485()
     myshow.show()
     sys.exit(app.exec_())
-
+# 只是测试
 
 
 
